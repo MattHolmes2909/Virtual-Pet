@@ -1,0 +1,2 @@
+ONCE THE REPO IS CLONED, USE 'npm i' TO INSTALL ALL DEPENDENCIES.
+This programme lets you take care of a virtual pet. From giving it a name on day 1 and until day 30, when your beloved pet will sadly pass away, you will be in charge of the wellbeing of your new friend. You will need to feed and walk your pet to keep it in good shape, and as they get older they will become hungrier and less fit. You can ask your pet if it needs any attention, because without your attention, your pet may pass away.
